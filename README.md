@@ -12,4 +12,5 @@ Wanted features:
 * Smileys. We need smileys.
 * Escaping of smileys (the angel in Changelog)
 * templates (usable for bot commands)
+* line breaks after 140 chars
 * what else?
